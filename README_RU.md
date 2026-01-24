@@ -101,7 +101,7 @@ SaaS-платформа для продажи и управления игров
 Проект разработан в команде из двух человек:
 
 - Backend / System Architecture — atamnf 
-- Second developer — private contributor  
+- Full-Stack Developer — improving1337 
 
 ---
 
