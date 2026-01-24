@@ -103,7 +103,7 @@ Source code access can be provided upon request during an interview.
 The project was developed by a small team of two:
 
 - Backend / System Architecture — atamnf
-- Second developer — private contributor  
+- Second developer — improving1337  
 
 ---
 
