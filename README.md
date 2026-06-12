@@ -59,7 +59,18 @@ At the moment, the platform is not in active commercial use and is primarily con
 **Infrastructure**
 - Linux  
 - Nginx / Apache  
-- Virtual Dedicated Servers (VDS)  
+- Virtual Dedicated Servers (VDS)
+
+## Repository Contents
+
+- Sanitized PHP backend source code
+- Authentication flow via Discord and Telegram
+- Payment webhook handling
+- Pterodactyl provisioning logic
+- API documentation
+- Database structure documentation
+- Security notes
+- Architecture diagrams and screenshots
 
 ## 🧩 System Architecture
 
@@ -89,12 +100,16 @@ Thus, the platform provides users with real dedicated server resources for runni
 
 ---
 
-## 🔐 Security & Source Code
+## Security & Source Code
 
-⚠️ The source code of this project is not publicly available for security and commercial reasons.
+This repository contains a sanitized public version of the Axion Hosting SaaS codebase.
 
-This repository contains only architectural and functional documentation.  
-Source code access can be provided upon request during an interview.
+All production secrets, API keys, tokens, webhook URLs, database credentials, user-uploaded files, and deployment-specific configuration have been removed.
+
+The project is published as a portfolio case study to demonstrate the architecture, backend logic, integrations, and provisioning workflow of a hosting SaaS platform.
+
+Production deployment requires creating a local `.env` file based on `.env.example`.
+
 
 ---
 
