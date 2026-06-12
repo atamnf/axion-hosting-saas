@@ -1,0 +1,25 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Runtime user files
+uploads/*
+!uploads/.gitkeep
+logs/
+cache/
+tmp/
+
+# Dependencies / OS / IDE
+vendor/
+node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Backups
+*.bak
+*.backup
+*.old
+*.zip
