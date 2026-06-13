@@ -1,9 +1,9 @@
 Copyright (c) 2026 Axion Hosting
 
-All rights reserved.
+This repository contains a sanitized public version of the Axion Hosting SaaS codebase.
 
-This repository contains architectural and functional documentation of the Axion Hosting platform.
+All production secrets, API keys, tokens, webhook URLs, database credentials, user-uploaded files, and deployment-specific configuration have been removed.
 
-No part of this repository may be copied, modified, distributed, or used in any form without prior written permission from the author.
+The project is published as a portfolio case study to demonstrate the architecture, backend logic, integrations, and provisioning workflow of a hosting SaaS platform.
 
-The source code of the project is not publicly available for security and commercial reasons.
+Production deployment requires creating a local .env file based on .env.example.
