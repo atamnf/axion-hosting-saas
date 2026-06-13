@@ -1,7 +1,9 @@
 # Security Policy
 
-The source code of this project is not public for security and commercial reasons.
+This repository contains a sanitized public version of the Axion Hosting SaaS codebase.
 
-This repository contains only architectural and functional documentation.
+All production secrets, API keys, tokens, webhook URLs, database credentials, user-uploaded files, and deployment-specific configuration have been removed.
 
-No secrets, credentials, or production configuration are included in this repository.
+The project is published as a portfolio case study to demonstrate the architecture, backend logic, integrations, and provisioning workflow of a hosting SaaS platform.
+
+Production deployment requires creating a local .env file based on .env.example.
