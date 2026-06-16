@@ -14,14 +14,14 @@ SaaS-платформа для продажи и управления игров
 
 ---
 
-## 📌 Project Status
+##  Project Status
 
 Проект разрабатывался как учебно-практический стартап и продакшен-подобная система.  
 На данный момент платформа не используется в активной коммерческой эксплуатации и рассматривается как демонстрация архитектурных и инженерных решений.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - Регистрация и авторизация пользователей  
 - OAuth авторизация через Discord и Telegram  
@@ -36,7 +36,7 @@ SaaS-платформа для продажи и управления игров
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 **Backend**
 - PHP  
@@ -59,7 +59,7 @@ SaaS-платформа для продажи и управления игров
 - Nginx / Apache  
 - VDS  
 
-## 🧩 System Architecture
+##  System Architecture
 
 Платформа состоит из следующих основных компонентов:
 
@@ -87,7 +87,7 @@ SaaS-платформа для продажи и управления игров
 
 ---
 
-## 🔐 Security & Source Code
+##  Security & Source Code
 
 Этот репозиторий содержит очищенную публичную версию кодовой базы Axion Hosting SaaS.
 
@@ -98,7 +98,7 @@ SaaS-платформа для продажи и управления игров
 Для production-развёртывания необходимо создать локальный .env файл на основе .env.example.
 ---
 
-## 👥 Team
+##  Team
 
 Проект разработан в команде из двух человек:
 
@@ -107,7 +107,7 @@ SaaS-платформа для продажи и управления игров
 
 ---
 
-## 📈 What This Project Demonstrates
+##  What This Project Demonstrates
 
 - Проектирование SaaS-платформ  
 - Интеграция с внешними панелями управления (Pterodactyl)  
@@ -120,18 +120,18 @@ SaaS-платформа для продажи и управления игров
 
 ---
 
-## 📎 Links
+##  Links
 
 - Website: https://axion-hosting.ru  
 - Discord: https://discord.gg/pYeqyfKJmZ
 
-## 📷 Screenshots
+##  Screenshots
 
 ![Login](screenshots/login.png)  
 ![Dashboard](screenshots/dashboard.png)  
 ![Panel](screenshots/panel.png)  
 
-## 📚 Architecture
+##  Architecture
 
 - [System Overview](architecture/system_overview.md)
 - [System Components](architecture/components.md)
