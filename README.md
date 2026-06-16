@@ -14,7 +14,7 @@ The project is a full-featured system where, after purchasing a plan, a user rec
 
 ---
 
-## 📌 Project Status
+##  Project Status
 
 This project was developed as an educational and practical startup and a production-like system.
 
@@ -22,7 +22,7 @@ At the moment, the platform is not in active commercial use and is primarily con
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - User registration and authentication  
 - OAuth authentication via Discord and Telegram  
@@ -38,7 +38,7 @@ At the moment, the platform is not in active commercial use and is primarily con
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 **Backend**
 - PHP  
@@ -72,7 +72,7 @@ At the moment, the platform is not in active commercial use and is primarily con
 - Security notes
 - Architecture diagrams and screenshots
 
-## 🧩 System Architecture
+##  System Architecture
 
 The platform consists of the following core components:
 
@@ -113,7 +113,7 @@ Production deployment requires creating a local `.env` file based on `.env.examp
 
 ---
 
-## 👥 Team
+##  Team
 
 The project was developed by a small team of two:
 
@@ -122,7 +122,7 @@ The project was developed by a small team of two:
 
 ---
 
-## 📈 What This Project Demonstrates
+##  What This Project Demonstrates
 
 - Designing SaaS platforms  
 - Automated provisioning of services on VDS  
@@ -135,18 +135,18 @@ The project was developed by a small team of two:
 
 ---
 
-## 📎 Links
+##  Links
 
 - Website: https://axion-hosting.ru  
 - Discord: https://discord.gg/pYeqyfKJmZ 
 
-## 📷 Screenshots
+##  Screenshots
 
 ![Login](screenshots/login.png)  
 ![Dashboard](screenshots/dashboard.png)  
 ![Panel](screenshots/panel.png)
 
-## 📚 Architecture
+##  Architecture
 
 - [System Overview](architecture/system_overview.md)
 - [System Components](architecture/components.md)
